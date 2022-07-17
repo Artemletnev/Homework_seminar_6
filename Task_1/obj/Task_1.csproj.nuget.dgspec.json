@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\C#\\Homework_seminar_6\\Task_1\\Task_1.csproj": {}
+    "C:\\GIT\\C#\\Homework_seminar_6\\Task_1\\Task_1.csproj": {}
   },
   "projects": {
-    "C:\\Git\\C#\\Homework_seminar_6\\Task_1\\Task_1.csproj": {
+    "C:\\GIT\\C#\\Homework_seminar_6\\Task_1\\Task_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\C#\\Homework_seminar_6\\Task_1\\Task_1.csproj",
+        "projectUniqueName": "C:\\GIT\\C#\\Homework_seminar_6\\Task_1\\Task_1.csproj",
         "projectName": "Task_1",
-        "projectPath": "C:\\Git\\C#\\Homework_seminar_6\\Task_1\\Task_1.csproj",
-        "packagesPath": "C:\\Users\\Артём\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\C#\\Homework_seminar_6\\Task_1\\obj\\",
+        "projectPath": "C:\\GIT\\C#\\Homework_seminar_6\\Task_1\\Task_1.csproj",
+        "packagesPath": "C:\\Users\\Артем\\.nuget\\packages\\",
+        "outputPath": "C:\\GIT\\C#\\Homework_seminar_6\\Task_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Артём\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Артем\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

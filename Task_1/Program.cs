@@ -11,8 +11,8 @@ for(int i = 0; i < arrayFromString.Length; i++)
 }
 for (int i = 0; i < arrayFromString.Length; i++)
 {
-    int convertToInt = Convert.ToInt32(arrayFromString[i]);
-    if(convertToInt > 0)
+    int convertNumber = Convert.ToInt32(arrayFromString[i]);
+    if(convertNumber > 0)
     {
         positiveDigit++;
     }
